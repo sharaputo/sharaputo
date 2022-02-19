@@ -1,6 +1,5 @@
-- 👋 Hi, I’m a front-end web developer from Saint Petersburg
-- 👀 I’m interested in HTML, CSS, Javascript and Vue.js
-- 🌱 I’m currently learning Javascript and Vue.js
+- 👋 Hi, I’m a JS developer from Saint Petersburg
+- 👀 I’m interested in Javascript
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 I'm available in telegram as @sharaputo
 
