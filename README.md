@@ -1,5 +1,6 @@
-- 👋 Hi, I’m a JS developer from Saint Petersburg
-- 👀 I’m interested in Javascript
+- 👋 Hi, I’m a web developer with 4 years experience
+- 👀 I’m interested in HTML development & Javascript coding
+- 💻 My stack is HTML5, CSS3 (SASS, SCSS, LESS), JavaScript, Vue.js, GIT, Gulp
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 I'm available in telegram as @sharaputo
 
