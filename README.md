@@ -1,7 +1,7 @@
-- 👋 Hi, I’m a web developer with 4 years experience
-- 👀 I’m interested in HTML development & Javascript coding
-- 💻 My stack is HTML5, CSS3 (SASS, SCSS, LESS), JavaScript, Vue.js, GIT, Gulp
-- 💞️ I’m looking to collaborate on interesting projects
+- 👋 Hi, I’m a frontend web developer with 4 years of experience;
+- 👀 I’m interested in frontend development and in learning new frontend technologies;
+- 💻 My stack is HTML5, CSS3 (Sass, Scss, Less, Stylus), JavaScript/Typescript, Vue 3/Nuxt 3 (Composition API, Router, Pinia, Vuex), GIT, Webpack/Parcel/Vite;
+- 💞️ I’m looking to collaborate on interesting projects;
 - 📫 I'm available in telegram as @sharaputo
 
 <!---
