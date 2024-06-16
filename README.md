@@ -1,6 +1,6 @@
 👋 Hi, I'm a frontend web developer with more than 5 years of experience
 
-👀 I’m interested in frontend development and in learning new frontend technologies. Vue ecosystem is the most appealing to me. If you are ready to collaborate on interesting projects, feel free to contact me via Telegram [@sharaputo](https://tttttt.me/sharaputo)
+👀 I’m interested in frontend development and in learning new frontend technologies. Vue ecosystem is the most appealing to me. If you are ready to collaborate on interesting projects, feel free to contact me via Telegram [@sharaputo]([https://tttttt.me/sharaputo](https://t.me/fet_lains))
 
 ---
 
